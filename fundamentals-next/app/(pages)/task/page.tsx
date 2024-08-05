@@ -23,7 +23,7 @@ export default function TaskPage() {
   };
 
   return (
-    <div className="space-y-9">
+    <div className="space-y-9 py-32">
       <h2 className="text-6xl text-center">Exercise</h2>
       <div className="flex flex-row space-x-2">
         <p>Word:</p>
